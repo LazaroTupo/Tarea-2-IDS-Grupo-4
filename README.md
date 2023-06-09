@@ -1,7 +1,10 @@
-# Pasos para la ejecución
+# JavaScript to-do-List (YT)
 
-## 1.
+## Introducción
+El siguiente proyecto proviene de un curso didáctico en el lenguaje de JavaScript. Enlace: https://www.youtube.com/watch?v=CSWnqdhN5vk&t=4774s
 
-## 2.
-
-## 3.
+## Pasos para su ejecución
+### 1.
+### 2.
+### 3.
+### 4.
