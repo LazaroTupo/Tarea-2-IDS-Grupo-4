@@ -6,6 +6,10 @@ El siguiente proyecto proviene de un curso didáctico en el lenguaje de JavaScri
 
 ## Pasos para su ejecución
 ### 1. 
-### 2.
-### 3.
-### 4.
+### 2. 
+### 3. 
+### 4. Hacer uso de un editor de texto (recomendable VSC con la extensión de Live Server) y ejecutar el archivo index.html.
+
+## Explicación de la página web
+
+### .
