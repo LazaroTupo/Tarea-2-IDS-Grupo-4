@@ -20,3 +20,4 @@ El siguiente proyecto proviene de un curso didáctico en el lenguaje de JavaScri
 
 ## Explicación de la aplicación web
 #### La página web consiste en un to do list, es decir, una lista por hacer en el día o en la semana. Las tareas se agregan con el botón add, especificando el título y la descripción antes de. También se puede agregar un check a tareas ya realizadas o eliminar una tarea que se colocó por accidente.
+Por último, se puede filtar las tareas, en hechas y en no completadas como tambien buscar una tarea en específico.
