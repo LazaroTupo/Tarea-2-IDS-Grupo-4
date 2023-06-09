@@ -1,4 +1,4 @@
-# JavaScript to-do-List (YT)
+# JavaScript Web Application (To-Do List)
 
 ## Introducción
 El siguiente proyecto proviene de un curso didáctico en el lenguaje de JavaScript. 
