@@ -10,9 +10,13 @@ El siguiente proyecto proviene de un curso didáctico en el lenguaje de JavaScri
 #### b) De poseer GitHub Desktop, se encuentra disponible la opción de "Open with GitHub Desktop".
 #### c) Alternativamente, puede ser clonado desde el mismo GitHub Desktop mediante el link de la URL del repositorio.
 
-### 2. 
-### 3. 
-### 4. Hacer uso de un editor de texto (recomendable VSC con la extensión de Live Server) y ejecutar el archivo index.html.
+### 2. Abrir un editor de texto, en especial, se recomienda el uso de Visual Studio Code (VSC)
+> Enlace: https://code.visualstudio.com/download
 
-## Explicación de la página web
+### 3. Dentro de VSC, puede ser ejecutado en tiempo real con el uso de la extensión de "Live Server". De poseer ya esta, hacer click derecho en el archivo "index.html" y darle en "Open with Live Server".
+
+### 4. La aplicación web será abierta en su navegador predefinido.
+
+
+## Explicación de la aplicación web
 #### La página web consiste en un to do list, es decir, una lista por hacer en el día o en la semana. Las tareas se agregan con el botón add, especificando el título y la descripción antes de. También se puede agregar un check a tareas ya realizadas o eliminar una tarea que se colocó por accidente.
